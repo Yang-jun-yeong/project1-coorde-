@@ -1,4 +1,5 @@
-![OOTB_Logo](/src/main/webapp/resources/assets/images/browser/LOGO.png)
+![image](https://github.com/user-attachments/assets/f9303f69-4bf3-4d8e-9c10-55500e2bd28f)
+
 ## OOTB project
 Outfit On The Body - 통계적 기법을 이용한 몸에 맞는 의류 추천 서비스
 
@@ -41,10 +42,12 @@ Outfit On The Body - 통계적 기법을 이용한 몸에 맞는 의류 추천 
 
 ## 프로젝트 아키텍쳐
 ### 시스템 아키텍처
-![Arch](/src/main/webapp/resources/assets/images/browser/Arch.png)
+![image](https://github.com/user-attachments/assets/8e6d7815-6c44-487d-bb8e-30d33adbe4f9)
+
 
 ### 메뉴 구성
-![구성도](/src/main/webapp/resources/assets/images/browser/구성도.png)
+![image](https://github.com/user-attachments/assets/f1f344bd-a055-4e72-b96d-b8d22c710a3a)
+
 
 ## 주요 기능
 - 의류 추천 및 필터링
@@ -63,13 +66,15 @@ Outfit On The Body - 통계적 기법을 이용한 몸에 맞는 의류 추천 
 - 매니저 문의사항 질문확인, 답변하기
 - 로그인, 회원가입, 회원탈퇴
 
-![mainpage](/src/main/webapp/resources/assets/images/browser/mainpage.png)
-![mypage](/src/main/webapp/resources/assets/images/browser/mypage.png)
-![faqpage](/src/main/webapp/resources/assets/images/browser/faqpage.png)
+![image](https://github.com/user-attachments/assets/66b76d7f-3c47-47bc-8dec-b1d4785fc8a1)
+![image](https://github.com/user-attachments/assets/4e7fc105-9216-4023-b0f0-36b447e85b8e)
+![image](https://github.com/user-attachments/assets/84770c20-7df4-4d29-8ea3-5114bba35e13)
+
 
 ### 트러블 슈팅
 1. JSP 파일에서 자바스크립트의 리터럴(`)을 사용하여 변수 값을 삽입하려고 할 때, ${}구문이 JSP의 EL식으로 해석되어 오류 발생 원인으로 JSP 내장 표현식으로 처리하려 하기 때문에 발생함을 파악 해결방법으로 JSP에서 자바스크립트의 리터럴을 사용하는 경우 ${} 앞에 \(역슬래시)를 추가해 JSP가 이를 자바스크립트 구문으로 인식하도록 적용
-![error](/src/main/webapp/resources/assets/images/browser/error.png)
+![image](https://github.com/user-attachments/assets/275c0bbc-96e5-4c40-9007-75730e9992ec)
+
 
 
 2. 모달을 여는 부분인 showModal 과 닫는 부분인 closeModal의 함수 중복 호출 문제 발생함을 파악
